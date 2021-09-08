@@ -1,0 +1,2 @@
+# krishtech
+regitry Analyser
